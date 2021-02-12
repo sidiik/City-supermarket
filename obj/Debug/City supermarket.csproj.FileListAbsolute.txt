@@ -1,0 +1,142 @@
+E:\C#\City supermarket\bin\Debug\City supermarket.exe.config
+E:\C#\City supermarket\bin\Debug\City supermarket.exe
+E:\C#\City supermarket\bin\Debug\City supermarket.pdb
+E:\C#\City supermarket\bin\Debug\Guna.UI2.dll
+E:\C#\City supermarket\obj\Debug\City supermarket.csprojAssemblyReference.cache
+E:\C#\City supermarket\obj\Debug\City_supermarket.Form1.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Properties.Resources.resources
+E:\C#\City supermarket\obj\Debug\City supermarket.csproj.GenerateResource.cache
+E:\C#\City supermarket\obj\Debug\City supermarket.csproj.CopyComplete
+E:\C#\City supermarket\obj\Debug\City supermarket.exe
+E:\C#\City supermarket\obj\Debug\City supermarket.pdb
+E:\C#\City supermarket\obj\Debug\City_supermarket.Customers.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Product.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.customer.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.Sales.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.sale.resources
+E:\C#\City supermarket\bin\Debug\AxShockwaveFlashObjects.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.Shared.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\C#\City supermarket\bin\Debug\ShockwaveFlashObjects.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\C#\City supermarket\bin\Debug\stdole.dll
+E:\C#\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.Reciept.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.Dashboard.resources
+E:\C#\City supermarket\bin\Debug\LiveCharts.pdb
+E:\C#\City supermarket\bin\Debug\LiveCharts.xml
+E:\C#\City supermarket\bin\Debug\LiveCharts.WinForms.pdb
+E:\C#\City supermarket\bin\Debug\LiveCharts.WinForms.xml
+E:\C#\City supermarket\bin\Debug\LiveCharts.Wpf.pdb
+E:\C#\City supermarket\bin\Debug\LiveCharts.Wpf.xml
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.The_Dashboard.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.Settings.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.Reports.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.CustomerSales.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.Suppliers.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.Expenses.resources
+E:\C#\City supermarket\bin\Debug\City supermarket.exe.manifest
+E:\C#\City supermarket\bin\Debug\City supermarket.application
+E:\C#\City supermarket\obj\Debug\City supermarket.exe.manifest
+E:\C#\City supermarket\obj\Debug\City supermarket.application
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.UserForm.resources
+E:\C#\City supermarket\bin\Debug\Bunifu_UI_v1.52.dll
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.CATEGORIES.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.splash.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.frmEmployee.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.Frmlogin.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.reset password.resources
+E:\C#\City supermarket\obj\Debug\City_supermarket.Forms.sendCode.resources
+E:\C#\City supermarket\obj\Debug\login_and_splash.Form1.resources
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\City supermarket.exe.config
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\City supermarket.exe.manifest
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\City supermarket.application
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\City supermarket.exe
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\City supermarket.pdb
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\Guna.UI2.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\stdole.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.CATEGORIES.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.customer.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Customers.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.CustomerSales.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.Dashboard.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.Expenses.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Form1.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Product.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.Reports.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.sale.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.Sales.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.Settings.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.splash.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.Suppliers.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.The_Dashboard.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.UserForm.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Properties.Resources.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City supermarket.csproj.GenerateResource.cache
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City supermarket.exe.manifest
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City supermarket.application
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City supermarket.csproj.CopyComplete
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City supermarket.exe
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City supermarket.pdb
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.TheLogin.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\login_and_splash.sendCode.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.updatepassword.resources
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\LiveCharts.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\LiveCharts.pdb
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\LiveCharts.xml
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.phone.resources
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\RestSharp.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\TextmagicRest.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\RestSharp.xml
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City supermarket.csprojAssemblyReference.cache
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.Report.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.frmEmpolye.resources
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\AForge.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\AForge.Video.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\zxing.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\zxing.presentation.dll
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\AForge.xml
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\AForge.Video.xml
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\zxing.xml
+C:\Users\Sadiq\Documents\City supermarket\bin\Debug\zxing.presentation.xml
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.login.resources
+C:\Users\Sadiq\Documents\City supermarket\obj\Debug\City_supermarket.Forms.Signin.resources

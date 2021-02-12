@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CITY_SUPERMARKETDataSet11" targetNamespace="http://tempuri.org/CITY_SUPERMARKETDataSet11.xsd" xmlns:mstns="http://tempuri.org/CITY_SUPERMARKETDataSet11.xsd" xmlns="http://tempuri.org/CITY_SUPERMARKETDataSet11.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="CITY_SUPERMARKETConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="CITY_SUPERMARKETConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.City_supermarket.Properties.Settings.GlobalReference.Default.CITY_SUPERMARKETConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="PRODUCTTableAdapter" GeneratorDataComponentClassName="PRODUCTTableAdapter" Name="PRODUCT" UserDataComponentName="PRODUCTTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="CITY_SUPERMARKETConnectionString (Settings)" DbObjectName="city_supermarket.dbo.PRODUCT" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT P_NAME, TOTAL FROM dbo.PRODUCT</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="P_NAME" DataSetColumn="P_NAME" />
+              <Mapping SourceColumn="TOTAL" DataSetColumn="TOTAL" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CITY_SUPERMARKETDataSet11" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="CITY_SUPERMARKETDataSet11" msprop:Generator_UserDSName="CITY_SUPERMARKETDataSet11">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PRODUCT" msprop:Generator_TableClassName="PRODUCTDataTable" msprop:Generator_TableVarName="tablePRODUCT" msprop:Generator_TablePropName="PRODUCT" msprop:Generator_RowDeletingName="PRODUCTRowDeleting" msprop:Generator_RowChangingName="PRODUCTRowChanging" msprop:Generator_RowEvHandlerName="PRODUCTRowChangeEventHandler" msprop:Generator_RowDeletedName="PRODUCTRowDeleted" msprop:Generator_UserTableName="PRODUCT" msprop:Generator_RowChangedName="PRODUCTRowChanged" msprop:Generator_RowEvArgName="PRODUCTRowChangeEvent" msprop:Generator_RowClassName="PRODUCTRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="P_NAME" msprop:Generator_ColumnVarNameInTable="columnP_NAME" msprop:Generator_ColumnPropNameInRow="P_NAME" msprop:Generator_ColumnPropNameInTable="P_NAMEColumn" msprop:Generator_UserColumnName="P_NAME">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="90" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TOTAL" msprop:Generator_ColumnVarNameInTable="columnTOTAL" msprop:Generator_ColumnPropNameInRow="TOTAL" msprop:Generator_ColumnPropNameInTable="TOTALColumn" msprop:Generator_UserColumnName="TOTAL" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
